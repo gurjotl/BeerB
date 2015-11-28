@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BeerB</string>
+    <string name="action_settings">Settings</string>
+    <string name="BluemixLogo">bluemix_logo.gif</string>
+    <string name="Copyright">Copyright © 2015 BeerB. All rights reserved.</string>
+    <string name="PingButton">Log in</string>
+    <string name="DefaultLabel">BeerB</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="hello_world">BeerB</string>
+</resources>
